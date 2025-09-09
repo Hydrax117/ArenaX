@@ -56,8 +56,8 @@ Redis + S3 + Payments**
 
 ``` bash
 # Clone repo
-git clone https://github.com/arenax/arenax-backend.git
-cd arenax-backend
+git clone https://github.com/arenax.git
+cd backend
 
 # Install dependencies
 cargo build
@@ -73,8 +73,8 @@ cargo run
 
 ``` bash
 # Clone repo
-git clone https://github.com/arenax/arenax-frontend.git
-cd arenax-frontend
+git clone https://github.com/arenax/arenax.git
+cd frontend
 
 # Install dependencies
 npm install
